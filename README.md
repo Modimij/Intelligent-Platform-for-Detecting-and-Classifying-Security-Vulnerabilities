@@ -1,6 +1,6 @@
 ## Core Technologies
 * **Programming Language:** Python
-* **Frameworks/Libraries:** Scikit-learn, Pandas, NumPy (عدليها حسب ما استخدمتيه)
+* **Frameworks/Libraries:** Scikit-learn, Pandas, NumPy
 * **Field:** Artificial Intelligence & Cybersecurity
 
 ## Key Features
